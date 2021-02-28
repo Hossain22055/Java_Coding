@@ -7,12 +7,6 @@ public class For_Loop_Demo {
 			System.out.print(i+ " ");
 		}
 		
-		// For Loop #2 
-		System.out.println("For Loop #2: ");
-		
-		
-		
-		
 		
 		
 	}
